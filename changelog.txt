@@ -1,0 +1,14 @@
+230814:	v0.4	ipd.py:
+
+		Removal of redundant code
+		Creation of function to retreive IP addresses of active interfaces
+
+??0814:	v0.3	ipd03.py:
+	
+		Initial sample file from:
+	
+		http://4tronix.co.uk/ipd/ipd03.py
+
+		http://4tronix.co.uk/blog/?p=337
+
+
